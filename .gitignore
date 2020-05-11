@@ -4,6 +4,21 @@ config.py
 # Adding additional files
 API_practice.ipynb
 random_numbers.ipynb
+weather_data.ipynb
+cities.csv
+Fig1.png 
+Fig2.png
+Fig3.png
+Fig4.png
+Banking_Deserts_Heatmap.ipynb
+Google_Nearby_Search.ipynb
+Linear_Regression.ipynb
+random_numbers.ipynb
+Stu_JSON_Traversal.ipynb
+Traversing_JSONs.ipynb
+try-except.ipynb
+VacationPy.ipynb
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
